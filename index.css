@@ -1,0 +1,124 @@
+body{
+    background-color: #F3EED5;
+}
+
+.header {
+    height: 70px;
+    width: 100%;
+    background-color: #D4DFBB;
+    text-align:center;
+}
+
+.header-text{
+    color:white;
+    text-align:center;
+}
+
+
+.header li{
+  width:118px;
+  display: inline-block;
+
+}
+
+.header li a{
+    color: white;
+    display: block;
+    width: 15%;
+}
+
+.center{
+    text-align:center;
+}
+
+img.profile-img{
+    border-radius: 200px;
+    height: 150px;
+    width: 150px;
+    margin-top:50px;
+}
+
+.name{
+    color: #E4AF9B;
+}
+
+.create,
+.skills
+{
+    margin-top: 30px;
+    color: #E4AF9B;
+    font-size:40px;
+}
+.profile{
+    margin-top: 30px;
+    color: #E4AF9B;
+    font-size:40px;
+    margin-bottom: 50px;
+}
+
+.create-card{
+    height: 250px;
+    background: white;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+img.create-img{
+    width: 100%;
+    height: auto;
+    border-radius: 50px;
+}
+
+.skills-card{
+    height: auto;
+    background: white;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+
+.skills-card li{
+    width:100px;
+    display: inline-block;
+    text-align:left;
+    margin: 50px;
+}
+
+img.skills{
+    height: auto;
+    width: 100px;
+}
+
+.skill-text{
+    font-weight: bolder;
+    text-align: center;
+}
+
+.profile-card {
+    height: auto;
+    background: white;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+.bottom-profile-img{
+    border-radius: 200px;
+    height: 150px;
+    width: 150px;
+    margin-top:-50px;
+}
+
+.profile-name{
+    font-weight: bolder;
+}
+
+.profile-text{
+    font-size: x-small;
+}
+
+.twitter-icon,
+.github-icon
+{
+    width: 50px;
+    height: auto;
+}
