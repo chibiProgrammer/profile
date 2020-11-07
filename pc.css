@@ -18,7 +18,6 @@ body{
 .header li{
   width:118px;
   display: inline-block;
-
 }
 
 .header li a{
@@ -57,7 +56,7 @@ img.profile-img{
 }
 
 .create-card{
-    height: 250px;
+    height: auto;
     background: white;
     border-radius: 50px;
     margin-top: 20px;
@@ -84,6 +83,10 @@ img.create-img{
     margin: 50px;
 }
 
+ul {
+    padding: 0;
+}
+
 img.skills{
     height: auto;
     width: 100px;
@@ -95,8 +98,6 @@ img.skills{
 }
 
 .profile-card {
-    height: auto;
-    background: white;
     border-radius: 50px;
     margin-top: 20px;
 }
