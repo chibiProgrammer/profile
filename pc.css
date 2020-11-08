@@ -16,8 +16,9 @@ body{
 
 
 .header li{
-  width:118px;
   display: inline-block;
+  text-align: center;
+  margin: 0 50px 0 50px;
 }
 
 .header li a{
@@ -122,4 +123,12 @@ img.skills{
 {
     width: 50px;
     height: auto;
+    margin-bottom: 50px;
+}
+
+.footer {
+    height: 70px;
+    width: 100%;
+    background-color: #D4DFBB;
+    text-align:center;
 }

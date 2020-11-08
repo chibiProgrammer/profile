@@ -3,26 +3,16 @@
     .header li{
         width:50px;
         display: inline-block;
-    }
-      
-    .header li a{
-        color: white;
-        display: block;
+        margin: 0 20px 0 20px;
     }
 
-    .create-card{
-        height: auto;
-        background: white;
-        border-radius: 25px;
-        margin-top: 20px;
-    }
-    
     img.create-img{
         width: 100%;
         height: auto;
-        border-radius: 25px;
+        border-radius: 5px;
     }
     
+
     .bottom-profile-img{
         border-radius: 200px;
         height: 150px;
